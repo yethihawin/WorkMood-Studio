@@ -5,7 +5,7 @@
 ### 1. Backend API Code Generation
 - **What**: Copilot generated the FastAPI app structure
 - **Prompt used**: "Create a FastAPI app with POST endpoint for mood generation"
-- **Screenshot**: (VS Code မှာ Copilot အကြံပြုနေတဲ့ပုံ)
+- **Screenshot**: 
 
 ### 2. Color Palette Logic
 - **What**: Copilot suggested color hex codes based on mood keywords
